@@ -1,3 +1,64 @@
 body {
-    color: red;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header,
+.row-welcome,
+.footer {
+    background-color: #1F2937;
+}
+
+.row-quote {
+    background-color: #E5E7EB;
+}
+
+.header-logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.information-header-text {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.signup-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.soft-grey-text {
+    color: grey;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.container-calltoaction {
+    background-color: #3882F6;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
 }
